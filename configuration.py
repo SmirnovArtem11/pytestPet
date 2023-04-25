@@ -1,1 +1,1 @@
-urlForCheck='https://my-json-server.typicode.com/typicode/demo/posts'
+urlForCheck='https://gorest.co.in/public/v1/users'
